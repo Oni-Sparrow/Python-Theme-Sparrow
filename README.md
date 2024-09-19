@@ -7,7 +7,7 @@ Go to: C:\Users\YourUsername\AppData\Local\Programs\Python\Python311\Lib\idlelib
 Open file "config-highlight.def" with normal Notepad.  
 Copy the lines below and paste it there.   
 Restart python if it's already opened.  
-Optional Step (personal preference): Change font to "Roboto Mono" with Size 10.  
+Optional Step (personal preference): Change font to "Roboto Mono" with font size 10.  
   
 [Sparrow]  
 comment-foreground = #8b949e  
